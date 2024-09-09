@@ -20,4 +20,4 @@ This will run the app, check `localhost:3000` to see the result.
 
 ## Preview
 
-![Demo](path/to/demo.gif)
+![Demo](./demo.gif)
