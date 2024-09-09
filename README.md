@@ -20,4 +20,4 @@ This will run the app, check `localhost:3000` to see the result.
 
 ## Preview
 
-![Demo](./demo.gif)
+![Demo](https://github.com/nerdjfpb/interview-task-for-innoscripta/blob/main/demo.gif)
